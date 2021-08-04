@@ -40,7 +40,16 @@ function Project() {
        </div>
       </figure>
       
+      <figure>
+        <h2 class="is-size-3 has-text-white">Holiday Search</h2>
+        <a class="holiday-search" href="https://gannacon.github.io/Project_1/" target="_blank"><img src={project1} alt="Holiday Search"/></a>
+        <div class="buttons is-centered">
+          <button class="button is-success is-outlined"><a href="https://gannacon.github.io/Project_1/" target="_blank">Click to View</a></button>
+          <button class="button is-success is-outlined"><a href="https://github.com/gannacon/Project_1" target="_blank">GitHub Link</a></button>
+       </div>
+      </figure>
 
+      
     </div>
 
 
