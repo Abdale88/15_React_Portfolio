@@ -59,8 +59,16 @@ function Project() {
       </figure>
     </div>
 
-    
-    
+    <div class="whatIDo">
+      <h1 id="contact-me" class="content is-large tabs is-centered is-size-2">Contacts</h1>
+      <ul>
+        <li><a href="https://voice.google.com/u/0/signup" target="_blank">(913)832-0416</a></li>
+        <li><a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cabdale989@gmail.com" target="_blank">cabdale989@gmail.com</a></li>
+        <li><a href="https://github.com/Abdale88" target="_blank">GitHub</a></li>
+        <li><a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">LinkedIn</a></li>
+        <li><a href={resume} target="_blank">Resume</a></li>
+      </ul>
+    </div> 
   </div>)
 }
 
