@@ -31,7 +31,16 @@ function Project() {
        </div>
       </figure>
 
+      <figure>
+        <h2 class="is-size-3 has-text-white">Work Schedule</h2>
+        <a href="https://abdale88.github.io/05_Work_Schedule/" target="_blank"><img src={schedule} alt="Work Schedule"/></a>
+        <div class="buttons is-centered">
+          <button class="button is-success is-outlined"><a href="https://abdale88.github.io/05_Work_Schedule/" target="_blank">Click to View</a></button>
+          <button class="button is-success is-outlined"><a href="https://github.com/Abdale88/05_Work_Schedule" target="_blank">GitHub Link</a></button>
+       </div>
+      </figure>
       
+
     </div>
 
 
