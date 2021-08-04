@@ -49,10 +49,17 @@ function Project() {
        </div>
       </figure>
 
-      
+      <figure>
+        <h2 class="is-size-3 has-text-white">Weather Dashboard</h2>
+        <a href="https://abdale88.github.io/06_Weather_Dashboard/" target="_blank"><img src={Weather} alt="Weather dashboard"/></a>
+        <div class="buttons is-centered">
+          <button class="button is-success is-outlined"><a href="https://abdale88.github.io/06_Weather_Dashboard/" target="_blank">Click to View</a></button>
+          <button class="button is-success is-outlined"><a href="https://github.com/Abdale88/06_Weather_Dashboard" target="_blank">GitHub Link</a></button>
+       </div>
+      </figure>
     </div>
 
-
+    
     
   </div>)
 }
