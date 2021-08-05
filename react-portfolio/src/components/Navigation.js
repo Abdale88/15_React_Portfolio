@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/index.css'
 import 'bulma/css/bulma.min.css';
-import myImg from '../images/Me.jpg'
+import myImg from '../images/myPic.png'
 
 function Navigation() {
   return (
