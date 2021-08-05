@@ -140,6 +140,172 @@ footer p {
     color: #404348
 }
 
+ /* Small devices (landscape phones, 576px and up) */
+@media only screen and (min-width: 280px) {
+
+
+    header p{
+        width: 100%;
+  
+    }
+    header h1{
+        font-size: 30px;
+    }
+    .work a img{
+        margin: 2%;
+        width: 96%;
+    }
+    .content ul{
+       display: flex;
+       flex-wrap: wrap;
+       padding: 20%;
+    }
+}
+
+ /* /* Medium devices (tablets, 768px and up) */
+ @media only screen and  (min-width: 768px) {
+
+    header p{
+        width: 100%;
+        
+    }
+    header h1{
+        font-size: 30px;
+    }
+
+    .content ul{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 20%;
+     }
+    .work{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+       grid-column-gap: 6px;
+       grid-row-gap:6px;
+     }
+    .work  figure{
+        display: grid;
+        flex-direction: row;
+        flex-wrap: wrap;
+         width: 100%;
+         border: 2px solid rgb(73, 68, 61);
+         margin: 1%;
+    }
+    .work2 a img{
+    
+        margin: 2%;
+        width: 96%;
+    }
+}
+
+/*  Large devices (desktops, 992px and up) */
+@media only screen and  (min-width: 992px) {
+
+    header p{
+        width: 100%;
+    }
+
+    .content ul{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 2%;
+     }
+
+    .work{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+       grid-column-gap: 6px;
+       grid-row-gap:6px;
+     }
+    .work  figure{
+        display: grid;
+        flex-direction: row;
+        flex-wrap: wrap;
+         width: 100%;
+         border: 2px solid rgb(73, 68, 61);
+         margin: 1%;
+    }
+   
+    .whatIDo  ul {
+        display: flex;
+        justify-content: space-between;
+
+    }
+ 
+  
+     footer{
+         text-align: left;
+         width: 90%;
+         margin: 60px auto;
+     }
+}
+
+/*  Extra large devices (large desktops, 1200px and up) */
+@media only screen and  (min-width: 1200px) {
+
+
+    header p{
+        width: 80%;
+    }
+
+    header h1{
+        font-size: 50px;
+    }
+
+    .content ul{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 2%;
+         /* background-color: yellowgreen; */
+     }
+
+    .work{
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+       grid-column-gap: 6px;
+       grid-row-gap:6px;
+     }
+    .work  figure{
+        display: grid;
+        flex-direction: row;
+        flex-wrap: wrap;
+         width: 100%;
+         border: 2px solid rgb(73, 68, 61);
+         margin: 1%;
+    }
+
+
+    .whatIDo{
+        text-align: 96%;
+        width: 70%;
+        
+        margin: 30px auto 100px auto;
+        
+    }
+    .whatIDo  ul {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .whatIDo  ul li a {
+        font-size: 20px;
+        color: white 
+    }
+ 
+    .whatIDo  ul li a:hover{
+        background-color: rgb(103, 167, 103);
+        border-radius: 3px;
+    }
+
+    footer{
+        text-align: left;
+        width: 90%;
+        margin: 60px auto;
+    }
+}
+
+
 
 
 
