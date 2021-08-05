@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/15_React_Portfolio/static/css/main.d5623549.chunk.css",
+    "main.js": "/15_React_Portfolio/static/js/main.8c5b5113.chunk.js",
+    "main.js.map": "/15_React_Portfolio/static/js/main.8c5b5113.chunk.js.map",
+    "runtime-main.js": "/15_React_Portfolio/static/js/runtime-main.0f66c3ec.js",
+    "runtime-main.js.map": "/15_React_Portfolio/static/js/runtime-main.0f66c3ec.js.map",
+    "static/css/2.41953c31.chunk.css": "/15_React_Portfolio/static/css/2.41953c31.chunk.css",
+    "static/js/2.b531e669.chunk.js": "/15_React_Portfolio/static/js/2.b531e669.chunk.js",
+    "static/js/2.b531e669.chunk.js.map": "/15_React_Portfolio/static/js/2.b531e669.chunk.js.map",
+    "static/js/3.4d659a1f.chunk.js": "/15_React_Portfolio/static/js/3.4d659a1f.chunk.js",
+    "static/js/3.4d659a1f.chunk.js.map": "/15_React_Portfolio/static/js/3.4d659a1f.chunk.js.map",
+    "index.html": "/15_React_Portfolio/index.html",
+    "static/css/2.41953c31.chunk.css.map": "/15_React_Portfolio/static/css/2.41953c31.chunk.css.map",
+    "static/css/main.d5623549.chunk.css.map": "/15_React_Portfolio/static/css/main.d5623549.chunk.css.map",
+    "static/js/2.b531e669.chunk.js.LICENSE.txt": "/15_React_Portfolio/static/js/2.b531e669.chunk.js.LICENSE.txt",
+    "static/media/03-javascript-homework-demo.aa25cbf8.png": "/15_React_Portfolio/static/media/03-javascript-homework-demo.aa25cbf8.png",
+    "static/media/index.css": "/15_React_Portfolio/static/media/BG_01.f2e6cf7b.png",
+    "static/media/Me.98fb9059.jpg": "/15_React_Portfolio/static/media/Me.98fb9059.jpg",
+    "static/media/Resume1.bfee33ce.pdf": "/15_React_Portfolio/static/media/Resume1.bfee33ce.pdf",
+    "static/media/Weather.e256856a.png": "/15_React_Portfolio/static/media/Weather.e256856a.png",
+    "static/media/project1.1892f131.png": "/15_React_Portfolio/static/media/project1.1892f131.png",
+    "static/media/project2.b64b0370.png": "/15_React_Portfolio/static/media/project2.b64b0370.png",
+    "static/media/schedule.5b3f62cd.gif": "/15_React_Portfolio/static/media/schedule.5b3f62cd.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f66c3ec.js",
+    "static/css/2.41953c31.chunk.css",
+    "static/js/2.b531e669.chunk.js",
+    "static/css/main.d5623549.chunk.css",
+    "static/js/main.8c5b5113.chunk.js"
+  ]
+}
