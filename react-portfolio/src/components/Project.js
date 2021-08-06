@@ -7,6 +7,9 @@ import schedule from '../images/schedule.gif'
 import Weather from '../images/Weather.png'
 import project1 from '../images/project1.png'
 import resume from '../images/Resume1.pdf'
+import fitness_tracker from '../images/fitness_tracker.png'
+import budget_tracker from '../images/budget_tracker.png'
+
 
 function Project() {
   return (<div>
@@ -55,6 +58,24 @@ function Project() {
         <div class="buttons is-centered">
           <button class="button is-success is-outlined"><a href="https://abdale88.github.io/06_Weather_Dashboard/" target="_blank">Click to View</a></button>
           <button class="button is-success is-outlined"><a href="https://github.com/Abdale88/06_Weather_Dashboard" target="_blank">GitHub Link</a></button>
+       </div>
+      </figure>
+
+      <figure>
+        <h2 class="is-size-3 has-text-white">fitness Tracker</h2>
+        <a href="https://workout-tracker-db.herokuapp.com/" target="_blank"><img src={fitness_tracker} alt="Weather dashboard"/></a>
+        <div class="buttons is-centered">
+          <button class="button is-success is-outlined"><a href="https://workout-tracker-db.herokuapp.com/" target="_blank">Click to View</a></button>
+          <button class="button is-success is-outlined"><a href="https://github.com/Abdale88/13_Workout_Tracker" target="_blank">GitHub Link</a></button>
+       </div>
+      </figure>
+
+      <figure>
+        <h2 class="is-size-3 has-text-white">Budger Tracker</h2>
+        <a href="https://db-budget-tracker.herokuapp.com/" target="_blank"><img src={budget_tracker} alt="Weather dashboard"/></a>
+        <div class="buttons is-centered">
+          <button class="button is-success is-outlined"><a href="https://db-budget-tracker.herokuapp.com/" target="_blank">Click to View</a></button>
+          <button class="button is-success is-outlined"><a href="https://github.com/Abdale88/14_Budget_Tracker" target="_blank">GitHub Link</a></button>
        </div>
       </figure>
     </div>
