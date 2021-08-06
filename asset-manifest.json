@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/15_React_Portfolio/static/css/main.d5623549.chunk.css",
-    "main.js": "/15_React_Portfolio/static/js/main.8c5b5113.chunk.js",
-    "main.js.map": "/15_React_Portfolio/static/js/main.8c5b5113.chunk.js.map",
+    "main.js": "/15_React_Portfolio/static/js/main.7d53778c.chunk.js",
+    "main.js.map": "/15_React_Portfolio/static/js/main.7d53778c.chunk.js.map",
     "runtime-main.js": "/15_React_Portfolio/static/js/runtime-main.0f66c3ec.js",
     "runtime-main.js.map": "/15_React_Portfolio/static/js/runtime-main.0f66c3ec.js.map",
     "static/css/2.41953c31.chunk.css": "/15_React_Portfolio/static/css/2.41953c31.chunk.css",
@@ -19,6 +19,8 @@
     "static/media/Me.98fb9059.jpg": "/15_React_Portfolio/static/media/Me.98fb9059.jpg",
     "static/media/Resume1.bfee33ce.pdf": "/15_React_Portfolio/static/media/Resume1.bfee33ce.pdf",
     "static/media/Weather.e256856a.png": "/15_React_Portfolio/static/media/Weather.e256856a.png",
+    "static/media/budget_tracker.57f1e27a.png": "/15_React_Portfolio/static/media/budget_tracker.57f1e27a.png",
+    "static/media/fitness_tracker.c9a358b5.png": "/15_React_Portfolio/static/media/fitness_tracker.c9a358b5.png",
     "static/media/project1.1892f131.png": "/15_React_Portfolio/static/media/project1.1892f131.png",
     "static/media/project2.b64b0370.png": "/15_React_Portfolio/static/media/project2.b64b0370.png",
     "static/media/schedule.5b3f62cd.gif": "/15_React_Portfolio/static/media/schedule.5b3f62cd.gif"
@@ -28,6 +30,6 @@
     "static/css/2.41953c31.chunk.css",
     "static/js/2.b531e669.chunk.js",
     "static/css/main.d5623549.chunk.css",
-    "static/js/main.8c5b5113.chunk.js"
+    "static/js/main.7d53778c.chunk.js"
   ]
 }
