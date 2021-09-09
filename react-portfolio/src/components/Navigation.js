@@ -47,8 +47,12 @@ function Navigation() {
         I love cats, and I love adventurous trips such as going to the lake or visiting 
         the zoo and so on. Please feel free to email me for more info
         <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cabdale989@gmail.com" target="_blank">Email</a></p>
+        <li>
+                  <div className="nav-bars is-size-3">
+                      <a className=" has-text-primary" href="#contact-me">Certificate</a>
+                  </div>
+              </li>
     </header>
-    
       </div>      
 
 
