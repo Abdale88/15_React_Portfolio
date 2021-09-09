@@ -1,6 +1,7 @@
 import React from 'react';
 import '../style/index.css'
 import 'bulma/css/bulma.min.css';
+import certificate from '../images/Certificate.pdf'
 import myImg from '../images/Me.jpg'
 
 function Navigation() {
@@ -49,7 +50,7 @@ function Navigation() {
         <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=cabdale989@gmail.com" target="_blank">Email</a></p>
         <li>
                   <div className="nav-bars is-size-3">
-                      <a className=" has-text-primary" href="#contact-me">Certificate</a>
+                      <a className=" has-text-primary" href={certificate}>Certificate</a>
                   </div>
               </li>
     </header>
