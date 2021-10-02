@@ -6,7 +6,7 @@ import project2 from '../images/project2.png'
 import schedule from '../images/schedule.gif'
 import Weather from '../images/Weather.png'
 import project1 from '../images/project1.png'
-import resume from '../images/Abdale_Hassan.pdf'
+import resume from '../images/Abdale_Hassan_RM.pdf'
 import fitness_tracker from '../images/fitness_tracker.png'
 import budget_tracker from '../images/budget_tracker.png'
 
