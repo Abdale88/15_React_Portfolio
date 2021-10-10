@@ -1,7 +1,7 @@
-## React Porfolio
+## React Portfolio
 
 ## Demo
-https://abdale88.github.io/React_Portfolio/
+https://abdale88.github.io/15_React_Portfolio/
 
 ## License
    GitHub License ![GitHub license](https://img.shields.io/badge/license-MIT-coral.svg)
